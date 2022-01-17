@@ -1,0 +1,42 @@
+[
+  {
+    "departure":"Madrid",
+    "arrival":"Barcelona",
+    "transport":"Train 78A",
+    "gate":"",
+    "seat":"Seat 45B",
+    "baggage":""
+  },
+  {
+    "departure":"Barcelona",
+    "arrival":"Gerona Airport",
+    "transport":"Airport Bus",
+    "gate":"",
+    "seat":"No seat assignment",
+    "baggage":""
+  },
+  {
+    "departure":"Gerona Airport",
+    "arrival":"Stockholm",
+    "transport":"Flight SK455",
+    "gate":"Gate 45B",
+    "seat":"Seat 3A",
+    "baggage":"Baggage drop at ticket counter 344"
+  },
+  {
+    "departure":"Stockholm",
+    "arrival":"New York JFK",
+    "transport":"Flight SK22",
+    "gate":"Gate 22",
+    "seat":"Seat 7B",
+    "baggage":"Baggage will be automatically transferred from your last leg"
+  },
+  {
+    "departure":"New York JFK",
+    "arrival":"Madrid",
+    "transport":"Flight SK888",
+    "gate":"Gate 888",
+    "seat":"Seat 8B",
+    "baggage":""
+  }
+]
