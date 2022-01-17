@@ -47,7 +47,7 @@ Owsome Test Paper
 
 ```
 cd existing_repo
-git remote add origin https://github.com/wanweilun1986/owsome-test.git
+git remote add origin https://github.com/wanweilun1986/owsome-online-test.git
 git branch -M main
 git push -uf origin main
 ```
